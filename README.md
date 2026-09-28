@@ -4,7 +4,7 @@
 
 本表按技术条件重新筛选和排序；其中末尾几例阅读量很小，只因符合技术条件而列入 30 条，**不称为爆款**。没有 JS/HTML 等实现依据，或主要使用 Unity、After Effects、Manim 的帖子均未收入。
 
-视频与截图取自对应作者的公开帖子，作品署名与原帖链接逐例列出。媒体用于研究和回看，原作者保留其作品权利。
+视频与截图取自对应作者的公开帖子，作品署名与原帖链接逐例列出。每例均可在下方播放器直接观看，也可下载仓库中的原始 MP4。8 个较大的视频使用小于 10 MB 的压缩播放版；下载链接保留原片。媒体用于研究和回看，原作者保留其作品权利。
 
 ## 热度排名
 
@@ -51,6 +51,10 @@
 
 - **本地视频：** [播放或下载 MP4](media/26-xikhar-2103995292983193600.mp4)（约 141 秒）。
 
+**直接播放：**
+
+https://github.com/user-attachments/assets/13838777-a8f8-4534-8572-909a84fdd80e
+
 - **动画与技术：** 浏览器中实时运行的第三人称荡蛛丝游戏，含摆荡、跑墙、俯冲和城市漫游。作者称这是 Opus 5.5 medium 的第三次迭代，结合 Three.js、Blender 与图像生成。
 - **提示词：** 未分享逐字提示词。
 - **做法：** [仓库 README](https://github.com/xikhar/spiderbench)称，人提供反馈和参考图，Claude 编写代码、着色器、程序化城市和 Blender 脚本生成的模型/动画，另使用生成纹理。游戏以 Three.js/WebGL2 渲染，运动由自定义物理和动画状态机驱动；[前一迭代的作者回复](https://x.com/xikhar/status/2104100443542761541)提到先改善角色装束、动画、模型和玩法，再继续城市改造。仓库明确把它定位为非商业技术基准/粉丝项目，不是正式游戏。
@@ -63,6 +67,10 @@
 ![案例 2 效果截图](media/strict/twoclipping-2103272964967804928-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/strict/twoclipping-2103272964967804928.mp4)。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/8b33ecc0-999b-442b-a8f4-b739208036d9
 - **动画与技术：** 一个形状在按钮、加载器、播放器、滑杆、标签、图表和命令面板之间连续变形。作者称整段视频均由代码制作，公开的模板明确要求单个 1440×1440 HTML 文件。
 - **提示词：** 作者公开的是可复用模板，不一定是这条成片的逐字输入。英文原文节选：
 
@@ -83,6 +91,10 @@
 ![案例 3 的本地效果截图](media/17-kevin_t_ngo-2102437792425070592-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/17-kevin_t_ngo-2102437792425070592.mp4)（约 28 秒）。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/c20d5eb4-5d17-46ca-9aca-ac8f6633dfc6
 - **动画与技术：** 镇上的人不断向 Claude 提需求，一位女孩却问它喜欢什么。作者称 Opus 5.5 用 JavaScript 画出每一帧；没有说明更具体的库。
 - **提示词：** 未分享提示词。
 - **做法：** 帖子只确认逐帧代码绘制，没有给出渲染步骤。可见回复有人询问提示词，但未看到作者解答。
@@ -95,6 +107,10 @@
 ![案例 4 效果截图](media/strict/MengTo-2102760366745010177-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/strict/MengTo-2102760366745010177.mp4)。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/4c4b2548-c367-4693-9627-5629d83faee0
 - **动画与技术：** 可玩的日本樱花山谷 3D 场景：船只逆流、天气与昼夜循环、水面反射、人物及建筑。作者明确称使用 Opus 5.5 与 Three.js，并给出[在线场景](https://valley.mengto.here.now)。
 - **提示词：** 作者在[后续帖](https://x.com/MengTo/status/2103155074705019158)公开完整长提示词，英文开头原文：
 
@@ -115,6 +131,10 @@
 ![案例 5 效果截图](media/strict/addyosmani-2102433488364597251-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/strict/addyosmani-2102433488364597251.mp4)。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/b12da376-bdc4-4956-b95b-12a4c613fbe7
 - **动画与技术：** Addy Osmani 用一段骑自行车的鹈鹕 3D 动画庆祝 Opus 5.5 发布，原帖明确写出 Three.js。
 - **提示词：** 未分享提示词。
 - **做法：** 作者在[回复](https://x.com/addyosmani/status/2102482988076519846)确认该示例一次生成；未公开逐字提示词或建模细节。
@@ -127,6 +147,10 @@
 ![案例 6 的本地效果截图](media/10-techartist_-2102503194777759744-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/10-techartist_-2102503194777759744.mp4)（约 19 秒）。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/ebcd87e3-792a-4b46-bea0-14e67e71b475
 - **动画与技术：** 3D 建筑依次从初始线条、体量、细节变成完工住宅。作者称 Claude Opus 5.5 使用 Three.js 和 TSL。
 - **提示词：** 未分享提示词。
 - **做法：** 帖文给出四个清晰的视觉阶段，但没有说明渲染流程。
@@ -139,6 +163,10 @@
 ![案例 7 的本地效果截图](media/08-dotey-2102939337591603200-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/08-dotey-2102939337591603200.mp4)（约 257 秒）。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/65d68241-5ce6-4874-be67-abb559cd3558
 - **动画与技术：** 可交互的 Three.js 场景，提供沿原文推进、带朗读的 28 幕导览。作者称用 Opus 5.5 对旧版本反复打磨，还让模型寻找免费 3D 模型，减少从零建模。
 - **提示词：** 最终作品没有单一的真实提示词；作者明确说它来自反复迭代。[回复](https://x.com/dotey/status/2102994911171903830)附有[事后还原的起始提示词](https://github.com/JimLiu/taohuayuan/blob/main/docs/prompt.md)，不能当作完整对话记录。该文开头原文为「你是一位兼具文学理解力的场景艺术导演、叙事交互设计师和资深网页 3D 开发者。」
 - **做法：** 这份还原提示词要求一条叙事时间线统管文本、镜头、人物、昼夜、落花、风、曝光与朗读，并要求仅凭幕号及幕内进度复原状态；还列出 28 幕及真实浏览器截图验收项目。[源码仓库](https://github.com/JimLiu/taohuayuan)记录了 Vite 构建、素材压缩、音画同步与逐帧推进的 1080p60 录制。作者称迭代了一天；README 提醒部分人物模型在许可解决前只适合个人学习。
@@ -151,6 +179,10 @@
 ![案例 8 效果截图](media/strict/addyosmani-2102980713603887104-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/strict/addyosmani-2102980713603887104.mp4)。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/61e26a76-b021-459d-be4d-4d53a591566b
 - **动画与技术：** 40 秒浏览器工作原理讲解动画；作者明确说 Opus 5.5 用 JavaScript 绘制了每一帧。
 - **提示词：** 未分享提示词。
 - **做法：** 作者在[回复](https://x.com/addyosmani/status/2103132367506604243)回答这是一次生成，并说其测试 Opus 5.5 的大多数示例也都是一次生成；未公开具体渲染脚本。
@@ -164,6 +196,10 @@
 
 - **本地视频：** [播放或下载 MP4](media/29-kimmonismus-2102844491820670976.mp4)（约 180 秒）。
 
+**直接播放：**
+
+https://github.com/user-attachments/assets/c68895e2-e8ed-40e6-a3d6-a19326c84e08
+
 - **动画与技术：** 三分钟的人工智能发展史短片，从《Attention Is All You Need》讲到 AGI。作者称全部画面由代码渲染，没有素材视频、图片生成器或视频生成器；约 7,400 行 React/TypeScript，以 Remotion 编排，图像由 SVG/Canvas 绘制，配有开源 TTS 旁白和 Python 合成配乐。
 - **提示词：** 未分享完整提示词；作者只公开了“快速制作一段从《Attention Is All You Need》到 AGI 的 AI 史短片”这一任务意图，不能当作逐字提示词。
 - **做法：** 使用 Claude Code 中的 Opus 5.5 生成逐帧代码、合成语音和音乐，作者自述约耗时一小时、占每周额度约 7%。该案例给出了比较完整的无素材代码视频栈：Remotion 时间轴 + SVG/Canvas 画面 + TTS + Python 音乐。
@@ -176,6 +212,10 @@
 ![案例 10 效果截图](media/strict/victormustar-2102707356932993024-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/strict/victormustar-2102707356932993024.mp4)。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/a40a19bb-41e3-426b-b449-87e18f661a88
 - **动画与技术：** 奔跑的像素马：128×96 像素、12 个步态姿势、关节腿由反向运动学驱动。单个 HTML 文件，以原生 JavaScript 和 Canvas 2D 绘制，没有图片或库。
 - **提示词：** 未分享这匹马的提示词。作者在[回复](https://x.com/victormustar/status/2102773201214607480)转引的是另一件“施法巫师”作品的提示词，不能冒充本例提示词。
 - **做法：** 作者在[回复](https://x.com/victormustar/status/2102711523596734738)称使用 xhigh effort。制作约束来自原帖：低分辨率、程序化每个像素、逆运动学和固定步态。
@@ -188,6 +228,10 @@
 ![案例 11 的本地效果截图](media/30-strawhatsu4-2102457077390299136-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/30-strawhatsu4-2102457077390299136.mp4)（约 14 秒）。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/1761d4fc-0696-4517-9dcf-c2e3e119cd82
 
 - **动画与技术：** 原帖附一段约 14 秒的短动画，作者明确称 Claude Opus 5.5 用 JavaScript 画出了每一帧。原帖没有说明动画主题、具体 JavaScript 库或编码方式，因此不作进一步推断。
 - **提示词：** 未分享提示词。
@@ -243,6 +287,10 @@
 ![案例 12 的本地效果截图](media/16-charliejhills-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/16-charliejhills-motion-graphics.mp4)（8 秒）。这是原帖附带的 GIF 动画转换后的 MP4，展示 16 个动效预览；并非 16 个独立源文件。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/f43aa102-f1bc-42fa-a269-2ee873c652fa
 - **动画与技术：** 用 Claude Code、HTML 和 SVG 制作的 16 个动效，包括会变形的图表。
 - **提示词：** 未分享提示词。
 - **做法：** 作者给出三步：先确定一个运动对象（例如变形图表）；给 Claude 看参考，并列出每个状态；要求用 HTML/SVG 实现，再逐轮修正。原帖还链接了 [Substack 合集](https://charliehills.substack.com/p/opus-55-motion-graphics)，但 Chrome 只显示安全验证页，因此未能读取文章内容。
@@ -255,6 +303,10 @@
 ![案例 13 效果截图](media/strict/Voxyz_ai-2102528357988515840-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/strict/Voxyz_ai-2102528357988515840.mp4)。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/61a26b37-a77f-426f-b5f1-85f32724713a
 - **动画与技术：** 讲述 Claude 从请求中收集人性片段、把文字化作星座的叙事动画。作者称无图像素材，所有画面都是 JS，在一个 index.html 中用 Hyperframes 渲染。
 - **提示词：** 未分享提示词。
 - **做法：** 作者称自己没有写代码；模型写故事、绘制逐帧画面和制作音乐。音乐以 Python 合成，成片后又逐秒检查和润色。
@@ -267,6 +319,10 @@
 ![案例 14 的本地效果截图](media/01-twoclipping-2103830256347910144-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/01-twoclipping-2103830256347910144.mp4)（约 29 秒）。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/0505834e-9389-4140-b1ad-8074d0e322d6
 - **动画与技术：** 正方形产品发布片，字标、照片网格、玻璃质感工具栏、手机界面、订单进度与墙上装裱画面连续变形。作者称它由一个 HTML 文件中的纯代码实现，涉及 SVG 滤镜、Canvas、确定性的 seek(t)、Playwright 逐帧抓取和 ffmpeg。
 - **提示词：** 作者公布了完整的英文 XML 式提示词，原文与中文对译见文末附录 A。
 - **做法：** 提示词要求先收集素材，再审核节拍图和四张静帧，之后制作完整影片。它明确指定 120 BPM、弹簧运动、60 fps、每帧四个子帧，以及按节拍检查画面和检测单帧突变。帖文所说的「不用外部工具」应理解为不用额外的动效服务或 MCP；提示词本身仍要求素材视频、音乐和音效。
@@ -279,6 +335,10 @@
 ![案例 15 效果截图](media/strict/akakuma0219-2103820663006109696-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/strict/akakuma0219-2103820663006109696.mp4)。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/e5c5b1e3-0a0a-4771-a339-20370d4522a1
 - **动画与技术：** 浏览器中可切换七个监视视角、天气、密度和无人机视角的小镇。作者明确称 Opus 5.5 使用 Three.js，建筑、居民、车辆和雨光以代码生成。
 - **提示词：** 作者在[日文方法回复](https://x.com/akakuma0219/status/2103820736519708709)公开起始提示词。原文节选：
 
@@ -299,6 +359,10 @@
 ![案例 16 的本地效果截图](media/02-Ror_Fly-2102853041246347264-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/02-Ror_Fly-2102853041246347264.mp4)（约 30 秒）。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/7e6ab122-2176-420f-a5e4-274a4590e56a
 - **动画与技术：** 从一张参考图做出约 30 秒的配方讲解动画，呈现从空杯到成品鸡尾酒的过程。作者称 Opus 用 HTML/JavaScript 渲染。
 - **提示词原文：**
 
@@ -318,6 +382,10 @@
 ![案例 17 效果截图](media/strict/samuel_spitz-2103292714066587649-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/strict/samuel_spitz-2103292714066587649.mp4)。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/b66d509a-ac37-44ae-bf39-0fd82abafc9a
 - **动画与技术：** 作者展示在 Replit 中结合 Opus 5.5 生成的动画视频，明确称由 JavaScript 制作。原帖没有解释画面主题。
 - **提示词：** 未分享提示词。
 - **做法：** 作者称生成用时不足 30 分钟；未披露其他步骤。
@@ -330,6 +398,10 @@
 ![案例 18 的本地效果截图](media/07-ring_hyacinth-2102985762996379648-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/07-ring_hyacinth-2102985762996379648.mp4)（约 40 秒）。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/73fc6357-e84f-4db3-8f29-5cf74f10e1c1
 - **动画与技术：** 手作质感的中秋拼贴动画。作者提供脚本和音乐；Opus 用 JavaScript 逐帧绘制，用 p5.js 和 p5.brush 制作手绘纹理；Nano Banana Pro 生成背景底稿和纸张材质，Node.js 程序合成音效。
 - **提示词：** 未分享提示词。
 - **做法：** 作者明确区分了人工提供的脚本和音乐、代码绘制的动画，以及生成的静态视觉素材。
@@ -342,6 +414,10 @@
 ![案例 19 效果截图](media/strict/jurlycat-2102645585169764352-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/strict/jurlycat-2102645585169764352.mp4)。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/c3b832d2-95d5-4b17-b3ec-e46d5e65163e
 - **动画与技术：** 78 秒动画电影，单个 index.html，以原生 JavaScript、Canvas 2D 和 Web Audio 直接在浏览器逐帧绘制画面并生成声音；作者称无图片、视频文件或外部库。
 - **提示词：** 未分享提示词。
 - **做法：** 作者称 Opus 5.5 约 45 分钟完成；在[回复](https://x.com/jurlycat/status/2102809525913096622)说大部分创意由模型即兴发挥，自己只是持续微调氛围，并在[另一回复](https://x.com/jurlycat/status/2102645799226097923)提供源码链接。
@@ -354,6 +430,10 @@
 ![案例 20 效果截图](media/strict/chetanankola-2103003207203213312-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/strict/chetanankola-2103003207203213312.mp4)。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/42eca8b2-26e6-4963-8f2f-09f911dad4e7
 - **动画与技术：** 作者展示另一版 Three.js + Claude Opus 5.5 制作的动态 3D 体验。具体场景主题原帖没有说明。
 - **提示词：** 未分享提示词。
 - **做法：** 作者在[回复](https://x.com/chetanankola/status/2103339451485478926)表示该作品的渲染负荷并不高；未披露代码或详细流程。
@@ -366,6 +446,10 @@
 ![案例 21 效果截图](media/strict/AndreiProvkin-2103918099665698816-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/strict/AndreiProvkin-2103918099665698816.mp4)。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/eb4c21e0-573e-4c31-a35f-64dc34dfc981
 - **动画与技术：** 由 Three.js 构建的程序化 3D 世界，作者称没有下载素材，包括声音也由程序生成；Opus 5.5 是主导模型。
 - **提示词：** 未分享完整提示词；作者只说明一条提示词加一张参考图。
 - **做法：** 作者称先让模型制定计划，再手动启动三个计划步骤，首版不要求修正；自报耗时 3 小时 36 分、445 次请求、约 5010 行新增代码、API 标价约 60 美元。
@@ -378,6 +462,10 @@
 ![案例 22 效果截图](media/strict/akiy_8-2103433334097686528-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/strict/akiy_8-2103433334097686528.mp4)。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/c65d306b-ba79-48a1-8dda-21245fcf6d46
 - **动画与技术：** 作者参考热门 Opus 5.5 动效并改写提示词，做出单个 HTML 文件的纯 WebGL2 动画；全靠数学公式实时光追 150 个球体，无图像、视频素材。
 - **提示词：** 作者说“调整了提示词”，但未在这条帖中公开改写后的逐字版本；所引用帖中的另一条提示词不能当作本例的真实提示词。
 - **做法：** 作者强调没有使用 Three.js，用原生 WebGL2 再现印刷网点和版偏移。
@@ -390,6 +478,10 @@
 ![案例 23 效果截图](media/strict/AIMevzulari-2103255788554792960-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/strict/AIMevzulari-2103255788554792960.mp4)。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/fa935c12-98bc-4657-aff8-42d98c1c6c1e
 - **动画与技术：** 16 场景短片，从超新星、寒武纪海洋、恐龙灭绝到红巨星和黑洞。作者称使用 Opus 5.5 与 JavaScript Canvas 2D，所有画面由程序化笔触和纸张纹理生成，无图像/视频模型或 3D 库。
 - **提示词：** 未分享提示词。
 - **做法：** 作者称一次生成约耗时一小时；音乐完全以代码合成，土耳其语/英语配音使用 Higgsfield 与 Claude MCP。配音工具不改变画面的 Canvas 2D 技术归类。
@@ -402,6 +494,10 @@
 ![案例 24 的本地效果截图](media/09-jurlycat-2104002235269320704-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/09-jurlycat-2104002235269320704.mp4)（约 61 秒）。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/deb371b1-3f8e-4661-84cc-583547a416b6
 - **动画与技术：** 类游戏的 3D 世界，用 Three.js 程序化生成物件；音乐和音效由浏览器的 Web Audio API 合成。作者称没有 PNG、3D 模型文件或音频采样。
 - **提示词：** 未分享提示词。
 - **做法：** 用程序化几何和合成声音替代传统素材管线。
@@ -414,6 +510,10 @@
 ![案例 25 的本地效果截图](media/11-yanhua1010-2103711331203649537-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/11-yanhua1010-2103711331203649537.mp4)（约 135 秒）。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/52039085-2dff-4d22-9a92-4fb61d15d103
 - **动画与技术：** 介绍「神秘东方文明」的短片。作者列出 HyperFrames（HTML 渲染视频）、Three.js（3D 效果）、HeyGen 曲库和 ffmpeg（合成视频）。
 - **提示词：** 未分享提示词。
 - **做法：** 原帖给出明确的工具链：HTML 场景、3D 效果、曲库配乐、视频合成。
@@ -426,6 +526,10 @@
 ![案例 26 效果截图](media/strict/leo_xiaolei-2102724181070839808-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/strict/leo_xiaolei-2102724181070839808.mp4)。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/befec792-eb7d-44f0-bbd5-b2df21cd7f9a
 - **动画与技术：** 约 28 秒手绘风短片，让橙色小角色依次变为神经元、三棱镜、向日葵、星系、黑洞和地球升起。作者称由 Opus 5.5 直出；其公开提示词指定 Vite、TypeScript、HTML、Canvas 2D 与 requestAnimationFrame，必要时才引入 Three.js。
 - **提示词：** 作者在[原帖](https://x.com/leo_xiaolei/status/2102724347446305104)公开长篇中文参考提示词。开头原文：
 
@@ -443,6 +547,10 @@
 ![案例 27 效果截图](media/strict/techartist_-2104185406363455488-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/strict/techartist_-2104185406363455488.mp4)。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/6465a01e-8706-40a2-94d1-dbbcd9eda255
 - **动画与技术：** 作者称以 Opus 5.5 用代码制作视觉和声音：Three.js、GLSL、Rough.js、Simplex Noise，以及 Tone.js、Web Audio 和 Salamander Piano 采样。
 - **提示词：** 未分享提示词。
 - **做法：** 作者给出[源码入口](https://github.com/iamtechartist)；在[回复](https://x.com/techartist_/status/2104198614541390286)说选择代码是因为可以做多种交互。
@@ -455,6 +563,10 @@
 ![案例 28 效果截图](media/strict/liebert_2026-2103494270854557696-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/strict/liebert_2026-2103494270854557696.mp4)。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/fcf56634-87d0-4db3-a68c-7479120257a9
 - **动画与技术：** 约 49 秒的 3D 动画；作者明确称 Opus 5.5 把整段动画做在单个 HTML 文件里。
 - **提示词：** 未分享提示词。
 - **做法：** 原帖未披露具体 3D 库、场景源码或渲染步骤。
@@ -467,6 +579,10 @@
 ![案例 29 的本地效果截图](media/20-staskulesh-2104291932939689984-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/20-staskulesh-2104291932939689984.mp4)（约 30 秒）。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/306b5887-2606-44d6-8be0-c47f767bb0ef
 - **动画与技术：** 为一本 592 页的书制作 30 秒动效预告。作者称 Claude Cowork 中的 Opus 5.5 Max 读取 PDF 和维基百科页面，设计九个场景，用无头 Chromium 中的 Canvas 渲染动画，再用 NumPy 合成音乐。
 - **提示词原文：**
 
@@ -486,6 +602,10 @@
 ![案例 30 的本地效果截图](media/21-ommakes-2104397849081368576-preview.jpg)
 
 - **本地视频：** [播放或下载 MP4](media/21-ommakes-2104397849081368576.mp4)（约 13 秒）。
+
+**直接播放：**
+
+https://github.com/user-attachments/assets/e186fe15-db41-4961-98d6-f5774073525d
 - **动画与技术：** Unsoku 产品中用于授予腰带的短动画。作者明确提到 Opus 5.5 与 Three.js。
 - **提示词：** 未分享提示词。
 - **做法：** 原帖及可见回复没有进一步制作细节。
