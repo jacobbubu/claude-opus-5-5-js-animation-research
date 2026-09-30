@@ -1,3 +1,5 @@
+**中文** | [English](README.en.md)
+
 # Opus 5.5 浏览器代码动画：按观看量排序的 30 例
 
 调研快照：2026-09-28，X Chrome 登录态。仅收录作者明确把作品归于 **Claude Opus 5.5**，且原帖、作者回复或源码能确认 **JavaScript / HTML / Canvas / SVG / WebGL / Three.js / p5.js / Remotion** 动画的帖子。观看数是各帖浏览时的快照，不代表独立观众、视频播放数或质量评分。模型归属依作者自述；仅核验可见文字和部分公开源码，未独立重跑全部工程。
